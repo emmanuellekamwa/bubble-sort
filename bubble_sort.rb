@@ -13,9 +13,6 @@ def bubble_sort(arr)
   arr
 end
 
-# bubble_sort([4,3,78,2,0,2])
-# => [0,2,2,3,4,78]
-
 def bubble_sort_by(arr)
   loop do
     sorting_in_progress = false
@@ -30,8 +27,3 @@ def bubble_sort_by(arr)
   end
   arr
 end
-
-# bubble_sort_by(%w(hi hello hey)) do |left, right|
-#   left.length - right.length
-# end
-#=> ["hi", "hey", "hello"]

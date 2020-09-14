@@ -10,7 +10,7 @@ The problem was resolved using 2 methods: bubble_sort and bubble_sort_by. The bu
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/emmanuellekamwa/bubble-sort/tree/bubble_sort)
+[Live Demo Link](https://repl.it/@oracleot/bubblesort#main.rb)
 
 ## Authors
 
